@@ -1,0 +1,182 @@
+CitroenAmi:
+  type: Web
+  title: Citroën Ami, la nueva imagen del rey de la micromovilidad
+  url: https://www.motor16.com/electrico/citroen-ami-nueva-imagen-micromovilidad/?form=MG0AV3
+  author: Javier Montoya
+  publisher: Motor 16
+  date: 2024-10-18
+
+Diario3DosProyectos:
+  type: Web
+  title: Presentaron dos (sí, dos) proyectos para regular el uso de monopatines eléctricos
+  url: https://www.diario3.com.ar/?p=189027&form=MG0AV3
+  date: 2024-10-16
+  publisher: diario3
+
+ComunicarSeMicromovilidad:
+  type: Web
+  title: "Micromovilidad: desafíos y oportunidades"
+  link: https://www.comunicarseweb.com/hubs/micromovilidad-desafios-y-oportunidades?form=MG0AV3
+  date: 2022-06-29
+  publisher: ComunicarSe
+
+OpinionMobiLatam:
+  type: Web
+  title: MOBI LATAM, startup de Santa Cruz, se asocia con EnergyX para fabricar baterías de última generación
+  url: https://www.opinion.com.bo/articulo/tendencias/mobi-latam-startup-santa-cruz-asocia-energyx-fabricar-baterias-ultima-generacion/20220420234106863746.html?form=MG0AV3
+  date: 2022-04-20
+  publisher: Opinión
+
+BoliviaEmprendeStartup:
+  type: Web
+  title: Startup boliviana de micromovilidad sostenible inicia su etapa de expansión nacional e internacional
+  url: https://boliviaemprende.com/noticias/startup-boliviana-de-micromovilidad-sostenible-inicia-su-etapa-de-expansion-nacional-e-internacional?form=MG0AV3
+  date: 2022-08-16
+  publisher: Bolivia Emprende
+  author: Maggy Talavera
+
+BBVABlog:
+  type: Web
+  title: La micromovilidad y el transporte público cogen carrerilla
+  url: https://www.bbva.ch/blog/sostenibilidad/la-micromovilidad-y-el-transporte-publico-cogen-carrerilla.html?form=MG0AV3
+  publisher: BBVA
+
+ElectroMovCL:
+  type: Web
+  title: La importancia de una micromovilidad en diálogo con el transporte público
+  publisher: ElectroMOV
+  url: https://www.electromov.cl/2019/08/30/la-importancia-de-una-micromovilidad-en-dialogo-con-el-transporte-publico/?form=MG0AV3
+
+IEUniversity:
+  type: Web
+  url: https://ieknowledge.ie.edu/wp-content/uploads/sites/138/2022/10/Web_INFORME-MICROMOVILIDAD.pdf?form=MG0AV3
+  title: Micromovilidad y Movilidad Urbana Sostenible
+  publisher: IE University
+  date: 2021-08
+  author: [Enrique Dans, Gildo Seisdedos]
+
+Ayyildizz2023:
+  type: Book
+  title: "SWOT Analysis Integrated Interval Type-2 Triangular Fuzzy AHP: Application on e-Scooter Adaptation in Turkiye"
+  author: [Ertugrul Ayyildiz, Melike Erdogan]
+  date: 2023
+  publisher: Springer International Publishing
+  booktitle: "Analytic Hierarchy Process with Fuzzy Sets Extensions: Applications and Discussions"
+  editor: [Cengiz Kahraman, Selcuk Cebi]
+  pages: 47-69
+  url: https://doi.org/10.1007/978-3-031-39438-6_3
+  serial-number:
+    doi: 10.1007/978-3-031-39438-6_3
+    isbn: 978-3-031-39438-6
+  abstract: "As an alternate mode of transportation, the use of shared bicycle and scooter systems, which are now being brought to the forefront under the term micromobility, has recently been increasing. Among them, electric scooters called e-scooters have started to be preferred frequently due to their ease of use. With this study, the factors to be considered for the adaptation of e-scooters have been determined and an e-scooter situation analysis has been carried out for Turkiye. For this reason, the factors brought together within the scope of the SWOT analysis have been examined and their priority degrees have been calculated. The factors considered in the SWOT analysis have been weighted with the interval type-2 fuzzy analytic hierarchy process (AHP). As a result, the most important and least important factors have been determined."
+
+SZMELTERJAROSZ2023100263:
+  type: Article
+  title: Mindset, quality of life and mobility choices – the complex analysis for urban and suburban areas in Poland
+  journal: Science Talks
+  volume: 8
+  pages: 100263
+  date: 2023
+  issn: 2772-5693
+  doi: https://doi.org/10.1016/j.sctalk.2023.100263
+  url: https://www.sciencedirect.com/science/article/pii/S277256932300138X
+  author:
+    - Agnieszka Szmelter-Jarosz
+    - Michał Suchanek
+  keywords:
+    - Mobility
+    - Urban mobility
+    - Suburban mobility
+    - Car culture
+    - Transport policy
+  abstract: Car culture is very strong in Poland. Urban sprawl, congestion and external effects of transport influence the perceived quality of life in urban and suburban areas. Therefore, it is essential to examine the reasons for choosing transport modes and willingness to change the mobility choices for sustainable ones. Using the Theory of Planned Behaviour within a structural equation modelling (SEM) approach, the goal was to comprehensively explain the perceived quality of life, transport behaviour and the underlying psychological processes, norms and beliefs, and to show the interdependencies between them. The main research method was the survey. Then, SEM models have been estimated to verify which values have the strongest effect on the transport behaviour and which variables significantly mediate this relation. The models were estimated based on a randomly-selected sample of Polish citizens, urban, suburban and rural residents (n = 1700) in October 2020 and October 2021. The results for residents of cities and suburban areas were compared with those for rural dwellers to refine the results significant for creating the urban policies. The research results are focused on explaining the interrelations between the perceived quality of life, mobility choices and residents' priorities and motivations to improve the urban policies.
+
+predrag_ivanovi__2023:
+  type: Article
+  title: Impact of new sustainable transport options - micromobility on urban mobility and traffic safety
+  author:
+    - Predrag Živanović
+    - Ana Trpković
+    - Stanko Bajčetić
+    - Slaven Tica
+    - Andrea Nađ
+    - Sreten Jevremović
+    - Branko Milovanović
+  date: 2023
+
+rania_swessi__2023:
+  type: Article
+  title: "Shared Micro-mobility: Technologies, Challenges and Prospects of Using Collected Data"
+  author:
+    - Rania Swessi
+    - Zeineb El Khalfi
+  journal: Communications in Computer and Information Science
+  date: 2023
+  doi: 10.1007/978-3-031-52823-1_3
+kevin_fang_2022:
+  type: Article
+  title: "Micromobility injury events: Motor vehicle crashes and other transportation systems factors"
+  author:
+    - Kevin Fang
+  journal: Transportation Research Interdisciplinary Perspectives
+  date: 2022
+  doi: 10.1016/j.trip.2022.100574
+
+daria_bylieva__2022:
+  type: Article
+  title: "Shared Micromobility: Between Physical and Digital Reality"
+  author:
+    - Daria Bylieva
+    - Victoria Lobatyuk
+    - I G Shestakova
+  journal: Sustainability
+  date: 2022
+  doi: 10.3390/su14042467
+
+jelica_komarica_2023:
+  type: Article
+  title: The impact of micromobility on environmental pollution
+  author:
+    - Jelica Komarica
+  journal: Put i saobraćaj
+  date: 2023
+  doi: 10.31075/pis.69.01.06
+
+ahmed_mousa_2012:
+  type: Misc
+  title: Lean six sigma model
+  author: Ahmed Mousa
+  date: 2012
+
+
+yury_klochkov__2019:
+  type: article
+  title: "Lean six sigma for sustainable business practices: a case study and standardisation"
+  author: [Yury Klochkov, Albina Gazizulina, "K. Muralidharan"]
+  date: 2019
+
+
+sanjay_h__zala__2024:
+  type: article
+  title: Application of Lean Six Sigma Tools for Performance Improvement in an Automobile Sector SME
+  author: Sanjay H. Zala and Nishadevi N. Jadeja and H G Chothani and Hirendra G. Vyas and Devendrakumar J. Marsonia and Nirav D. Mehta
+  journal: SSRG international journal of mechanical engineering
+  date: 2024
+  doi: 10.14445/23488360/ijme-v11i7p101
+
+jag_mohan__2024:
+  type: article
+  title: "An analysis of green lean six sigma deployment in MSMEs: a systematic literature review and conceptual implementation framework"
+  author: Jag Mohan and Mahender Singh Kaswan and Rajeev Rathi
+  journal: The Tqm Journal
+  date: 2024
+  doi: 10.1108/tqm-06-2023-0197
+
+
+abdallah_izzat_mahmoud_barakat_2024:
+  type: article
+  title: Effect of lean six sigma and recent technologies on environmentally sustainable manufacturing and financial management practices
+  author: Abdallah Izzat Mahmoud Barakat
+  journal: International journal of applied economics, finance and accounting
+  date: 2024
+  doi: 10.33094/ijaefa.v19i2.1633
